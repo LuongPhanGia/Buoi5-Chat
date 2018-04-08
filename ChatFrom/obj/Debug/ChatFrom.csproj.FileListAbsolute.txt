@@ -1,0 +1,10 @@
+F:\TaiLieu\Nam 3.2\LapTrinhMang\ThucHanh\ChatFrom\ChatFrom\bin\Debug\ChatFrom.exe.config
+F:\TaiLieu\Nam 3.2\LapTrinhMang\ThucHanh\ChatFrom\ChatFrom\bin\Debug\ChatFrom.exe
+F:\TaiLieu\Nam 3.2\LapTrinhMang\ThucHanh\ChatFrom\ChatFrom\bin\Debug\ChatFrom.pdb
+F:\TaiLieu\Nam 3.2\LapTrinhMang\ThucHanh\ChatFrom\ChatFrom\obj\Debug\ChatFrom.csprojResolveAssemblyReference.cache
+F:\TaiLieu\Nam 3.2\LapTrinhMang\ThucHanh\ChatFrom\ChatFrom\obj\Debug\ChatFrom.Frm.resources
+F:\TaiLieu\Nam 3.2\LapTrinhMang\ThucHanh\ChatFrom\ChatFrom\obj\Debug\ChatFrom.Properties.Resources.resources
+F:\TaiLieu\Nam 3.2\LapTrinhMang\ThucHanh\ChatFrom\ChatFrom\obj\Debug\ChatFrom.csproj.GenerateResource.cache
+F:\TaiLieu\Nam 3.2\LapTrinhMang\ThucHanh\ChatFrom\ChatFrom\obj\Debug\ChatFrom.csproj.CoreCompileInputs.cache
+F:\TaiLieu\Nam 3.2\LapTrinhMang\ThucHanh\ChatFrom\ChatFrom\obj\Debug\ChatFrom.exe
+F:\TaiLieu\Nam 3.2\LapTrinhMang\ThucHanh\ChatFrom\ChatFrom\obj\Debug\ChatFrom.pdb
